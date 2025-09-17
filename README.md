@@ -17,14 +17,18 @@ bun dev
 
 # or 
 To uses it you need to setup .env before that it included 
+
 OPENAI_API_KEY
+
 NEXT_PUBLIC_IMAGEKIT_PUBLIC_URL_ENDPOINT
+
 NEXT_PUBLIC_IMAGEKIT_PUBLIC_KEY
+
 IMAGEKIT_PRIVATE_KEY
 
 # or
 Firstly you run it port:3000 it just origin of next js page. If you want to redirect to use these tools just navigate to 
-- /ui/client/{based on folders available in ui folder}
+- /ui/{based on folders available in ui folder}
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
